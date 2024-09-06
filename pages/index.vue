@@ -1,5 +1,7 @@
 <script setup lang="ts">
-
+onMounted(() => {
+  console.log("こんにちは！！！！！！！！！！！！！！！！！！！！！！！！")
+})
 </script>
 
 <template>
