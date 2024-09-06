@@ -15,7 +15,8 @@
 
 <style scoped lang="scss">
 .axuata {
-  margin: 60px 120px;
+  max-width: 1600px;
+  margin: 60px auto;
 }
 
 h1 {
